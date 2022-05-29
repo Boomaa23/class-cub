@@ -1,0 +1,487 @@
+[
+    {
+        "node": {
+            "abbreviation": "EL ENG",
+            "courseNumber": "24",
+            "prerequisites": [],
+            "title": "Freshman Seminar",
+            "gradeAverage": -1.0,
+            "letterAverage": "",
+            "units": "1.0",
+            "description": "The Freshman Seminar Program has been designed to provide new students with the opportunity to explore an intellectual topic with a faculty member in a small seminar setting. Freshman seminars are offered in all campus departments, and topics may vary from department to department and semester to semester. "
+        }
+    },
+    {
+        "node": {
+            "abbreviation": "EL ENG",
+            "courseNumber": "105",
+            "prerequisites": [
+                "EECS 16A",
+                "EECS 16B"
+            ],
+            "title": "Microelectronic Devices and Circuits",
+            "gradeAverage": 3.127160493827161,
+            "letterAverage": "B",
+            "units": "4.0",
+            "description": "This course covers the fundamental circuit and device concepts needed to understand analog integrated circuits. After an overview of the basic properties of semiconductors, the p-n junction and MOS capacitors are described and the MOSFET is modeled as a large-signal device. Two port small-signal amplifiers and their realization using single stage and multistage CMOS building blocks are discussed. Sinusoidal steady-state signals are introduced and the techniques of phasor analysis are developed, including impedance and the magnitude and phase response of linear circuits. The frequency responses of single and multi-stage amplifiers are analyzed. Differential amplifiers are introduced. "
+        }
+    },
+    {
+        "node": {
+            "abbreviation": "EL ENG",
+            "courseNumber": "113",
+            "prerequisites": [
+                "EL ENG 105"
+            ],
+            "title": "Power Electronics",
+            "gradeAverage": 3.2854166666666664,
+            "letterAverage": "B+",
+            "units": "4.0",
+            "description": "Power conversion circuits and techniques. Characterization and design of magnetic devices including transformers, reactors, and electromagnetic machinery. Characteristics of bipolar and MOS power semiconductor devices. Applications to motor control, switching power supplies, lighting, power systems, and other areas as appropriate. "
+        }
+    },
+    {
+        "node": {
+            "abbreviation": "EL ENG",
+            "courseNumber": "118",
+            "prerequisites": [
+                "MATH 53",
+                "EECS 16A",
+                "EECS 16B",
+                "MATH 54"
+            ],
+            "title": "Introduction to Optical Engineering",
+            "gradeAverage": 3.3666666666666667,
+            "letterAverage": "B+",
+            "units": "4.0",
+            "description": "Fundamental principles of optical systems. Geometrical optics and aberration theory. Stops and apertures, prisms, and mirrors. Diffraction and interference. Optical materials and coatings. Radiometry and photometry. Basic optical devices and the human eye. The design of optical systems. Lasers, fiber optics, and holography. "
+        }
+    },
+    {
+        "node": {
+            "abbreviation": "EL ENG",
+            "courseNumber": "120",
+            "prerequisites": [
+                "EECS 16A",
+                "EECS 16B"
+            ],
+            "title": "Signals and Systems",
+            "gradeAverage": 3.206787330316742,
+            "letterAverage": "B+",
+            "units": "4.0",
+            "description": "Continuous and discrete-time transform analysis techniques with illustrative applications. Linear and time-invariant systems, transfer functions. Fourier series, Fourier transform, Laplace and Z-transforms. Sampling and reconstruction. Solution of differential and difference equations using transforms. Frequency response, Bode plots, stability analysis. Illustrated by analysis of communication systems and feedback control systems. "
+        }
+    },
+    {
+        "node": {
+            "abbreviation": "EL ENG",
+            "courseNumber": "130",
+            "prerequisites": [
+                "EECS 16A",
+                "EECS 16B"
+            ],
+            "title": "Integrated-Circuit Devices",
+            "gradeAverage": 3.1872881355932203,
+            "letterAverage": "B+",
+            "units": "4.0",
+            "description": "Overview of electronic properties of semiconductor. Metal-semiconductor contacts, pn junctions, bipolar transistors, and MOS field-effect transistors. Properties that are significant to device operation for integrated circuits. Silicon device fabrication technology. "
+        }
+    },
+    {
+        "node": {
+            "abbreviation": "EL ENG",
+            "courseNumber": "137A",
+            "prerequisites": [
+                "Physics 7B",
+                "EECS 16A",
+                "EECS 16B"
+            ],
+            "title": "Introduction to Electric Power Systems",
+            "gradeAverage": 3.3136645962732927,
+            "letterAverage": "B+",
+            "units": "4.0",
+            "description": "Overview of conventional electric power conversion and delivery, emphasizing a systemic understanding of the electric grid with primary focus at the transmission level, aimed toward recognizing needs and opportunities for technological innovation. Topics include aspects of a.c. system design, electric generators, components of transmission and distribution systems, power flow analysis, system planning and operation, performance measures, and limitations of legacy technologies. "
+        }
+    },
+    {
+        "node": {
+            "abbreviation": "EL ENG",
+            "courseNumber": "140",
+            "prerequisites": [
+                "EL ENG 105"
+            ],
+            "title": "Linear Integrated Circuits",
+            "gradeAverage": 3.2422680412371134,
+            "letterAverage": "B+",
+            "units": "4.0",
+            "description": "Single and multiple stage transistor amplifiers. Operational amplifiers. Feedback amplifiers, 2-port formulation, source, load, and feedback network loading. Frequency response of cascaded amplifiers, gain-bandwidth exchange, compensation, dominant pole techniques, root locus. Supply and temperature independent biasing and references. Selected applications of analog circuits such as analog-to-digital converters, switched capacitor filters, and comparators. Hardware laboratory and design project. "
+        }
+    },
+    {
+        "node": {
+            "abbreviation": "EL ENG",
+            "courseNumber": "143",
+            "prerequisites": [
+                "PHYSICS 7B"
+            ],
+            "title": "Microfabrication Technology",
+            "gradeAverage": 3.2781714285714285,
+            "letterAverage": "B+",
+            "units": "4.0",
+            "description": "Integrated circuit device fabrication and surface micromachining technology. Thermal oxidation, ion implantation, impurity diffusion, film deposition, expitaxy, lithography, etching, contacts and interconnections, and process integration issues. Device design and mask layout, relation between physical structure and electrical/mechanical performance. MOS transistors and poly-Si surface microstructures will be fabricated in the laboratory and evaluated. "
+        }
+    },
+    {
+        "node": {
+            "abbreviation": "EL ENG",
+            "courseNumber": "C145B",
+            "prerequisites": [
+                "Electrical Engineering 16A",
+                "B and Engineering 7"
+            ],
+            "title": "Image Processing and Reconstruction Tomography",
+            "gradeAverage": 3.26274509803922,
+            "letterAverage": "B+",
+            "units": "4.0",
+            "description": "Linear systems and Fourier transforms in two and three dimensions. Basic image processing. Theory and algorithms for image reconstruction from projections. Physics of imaging systems including magnetic resonance, X-ray tomography, positron emission tomography, ultrasound, and biomagnetic imaging. Data analysis including hypothesis testing, parameter estimation by least squares, and compartmental kinetic modelling. Field trips to medical imaging laboratories. "
+        }
+    },
+    {
+        "node": {
+            "abbreviation": "EL ENG",
+            "courseNumber": "147",
+            "prerequisites": [
+                "EECS 16A",
+                "EECS 16B"
+            ],
+            "title": "Introduction to Microelectromechanical Systems (MEMS)",
+            "gradeAverage": 3.4564625850340134,
+            "letterAverage": "B+",
+            "units": "3.0",
+            "description": "This course will teach fundamentals of micromachining and microfabrication techniques, including planar thin-film process technologies, photolithographic techniques, deposition and etching techniques, and the other technologies that are central to MEMS fabrication. It will pay special attention to teaching of fundamentals necessary for the design and analysis of devices and systems in mechanical, electrical, fluidic, and thermal energy/signal domains, and will teach basic techniques for multi-domain analysis. Fundamentals of sensing and transduction mechanisms including capacitive and piezoresistive techniques, and design and analysis of micmicromachined miniature sensors and actuators using these techniques will be covered."
+        }
+    },
+    {
+        "node": {
+            "abbreviation": "EL ENG",
+            "courseNumber": "194",
+            "prerequisites": [],
+            "title": "Special Topics",
+            "gradeAverage": 3.8523255813953483,
+            "letterAverage": "A",
+            "units": "1-4",
+            "description": "Topics will vary semester to semester. See the Electrical Engineering announcements. "
+        }
+    },
+    {
+        "node": {
+            "abbreviation": "EL ENG",
+            "courseNumber": "197",
+            "prerequisites": [],
+            "title": "Field Study",
+            "gradeAverage": -1.0,
+            "letterAverage": "",
+            "units": "1-4",
+            "description": "Students take part in organized individual field sponsored programs with off-campus companies or tutoring/mentoring relevant to specific aspects and applications of computer science on or off campus. Note Summer CPT or OPT students: written report required. Course does not count toward major requirements, but will be counted in the cumulative units toward graduation. "
+        }
+    },
+    {
+        "node": {
+            "abbreviation": "EL ENG",
+            "courseNumber": "198",
+            "prerequisites": [],
+            "title": "Directed Group Study for Advanced Undergraduates",
+            "gradeAverage": -1.0,
+            "letterAverage": "",
+            "units": "1-4",
+            "description": "Group study of selected topics in electrical engineering, usually relating to new developments. "
+        }
+    },
+    {
+        "node": {
+            "abbreviation": "EL ENG",
+            "courseNumber": "218A",
+            "prerequisites": [
+                "MATH 53",
+                "EECS 16A",
+                "EECS 16B",
+                "MATH 54"
+            ],
+            "title": "Introduction to Optical Engineering",
+            "gradeAverage": 3.686524822695036,
+            "letterAverage": "A-",
+            "units": "4.0",
+            "description": "Fundamental principles of optical systems. Geometrical optics and aberration theory. Stops and apertures, prisms, and mirrors. Diffraction and interference. Optical materials and coatings. Radiometry and photometry. Basic optical devices and the human eye. The design of optical systems. Lasers, fiber optics, and holography. "
+        }
+    },
+    {
+        "node": {
+            "abbreviation": "EL ENG",
+            "courseNumber": "C220A",
+            "prerequisites": [],
+            "title": "Advanced Control Systems I",
+            "gradeAverage": 3.54,
+            "letterAverage": "A-",
+            "units": "3",
+            "description": "Input-output and state space representation of linear continuous and discrete time dynamic systems. Controllability, observability, and stability. Modeling and identification. Design and analysis of single and multi-variable feedback control systems in transform and time domain. State observer. Feedforward/preview control. Application to engineering systems."
+        }
+    },
+    {
+        "node": {
+            "abbreviation": "EL ENG",
+            "courseNumber": "C220B",
+            "prerequisites": [],
+            "title": "Experiential Advanced Control Design I",
+            "gradeAverage": 3.43333333333333,
+            "letterAverage": "B+",
+            "units": "3",
+            "description": "Experience-based learning in the design of SISO and MIMO feedback controllers for linear systems. The student will master skills needed to apply linear control design and analysis tools to classical and modern control problems. In particular, the participant will be exposed to and develop expertise in two key control design technologies: frequency-domain control synthesis and time-domain optimization-based approach."
+        }
+    },
+    {
+        "node": {
+            "abbreviation": "EL ENG",
+            "courseNumber": "221A",
+            "prerequisites": [
+                "EL ENG 120",
+                "MATH 110"
+            ],
+            "title": "Linear System Theory",
+            "gradeAverage": 3.7162454873646213,
+            "letterAverage": "A-",
+            "units": "4.0",
+            "description": "Basic system concepts; state-space and I/O representation. Properties of linear systems. Controllability, observability, minimality, state and output-feedback. Stability. Observers. Characteristic polynomial. Nyquist test. "
+        }
+    },
+    {
+        "node": {
+            "abbreviation": "EL ENG",
+            "courseNumber": "223",
+            "prerequisites": [
+                "EL ENG 226A"
+            ],
+            "title": "Stochastic Systems: Estimation and Control",
+            "gradeAverage": 3.93,
+            "letterAverage": "A",
+            "units": "3.0",
+            "description": "Parameter and state estimation. System identification. Nonlinear filtering. Stochastic control. Adaptive control. "
+        }
+    },
+    {
+        "node": {
+            "abbreviation": "EL ENG",
+            "courseNumber": "225D",
+            "prerequisites": [
+                "EL ENG 123",
+                "STAT 200A"
+            ],
+            "title": "Audio Signal Processing in Humans and Machines",
+            "gradeAverage": 3.7909090909090906,
+            "letterAverage": "A-",
+            "units": "3.0",
+            "description": "Introduction to relevant signal processing and basics of pattern recognition. Introduction to coding, synthesis, and recognition. Models of speech and music production and perception. Signal processing for speech analysis. Pitch perception and auditory spectral analysis with applications to speech and music. Vocoders and music synthesizers. Statistical speech recognition, including introduction to Hidden Markov Model and Neural Network approaches. "
+        }
+    },
+    {
+        "node": {
+            "abbreviation": "EL ENG",
+            "courseNumber": "226A",
+            "prerequisites": [
+                "EL ENG 120",
+                "STAT 200A"
+            ],
+            "title": "Random Processes in Systems",
+            "gradeAverage": 3.7672413793103456,
+            "letterAverage": "A-",
+            "units": "4.0",
+            "description": "Probability, random variables and their convergence, random processes. Filtering of wide sense stationary processes, spectral density, Wiener and Kalman filters. Markov processes and Markov chains. Gaussian, birth and death, poisson and shot noise processes. Elementary queueing analysis. Detection of signals in Gaussian and shot noise, elementary parameter estimation. "
+        }
+    },
+    {
+        "node": {
+            "abbreviation": "EL ENG",
+            "courseNumber": "227BT",
+            "prerequisites": [
+                "MATH 54",
+                "STAT 2"
+            ],
+            "title": "Convex Optimization",
+            "gradeAverage": 3.66646884272997,
+            "letterAverage": "A-",
+            "units": "4.0",
+            "description": "Convex optimization is a class of nonlinear optimization problems where the objective to be minimized, and the constraints, are both convex.   The course covers some convex optimization theory and algorithms, and describes various applications arising in engineering design, machine learning and statistics, finance, and operations research. The course includes laboratory assignments, which consist of hands-on experiments with the optimization software CVX, and a discussion section."
+        }
+    },
+    {
+        "node": {
+            "abbreviation": "EL ENG",
+            "courseNumber": "229A",
+            "prerequisites": [
+                "STAT 200A",
+                "EL ENG 226"
+            ],
+            "title": "Information Theory and Coding",
+            "gradeAverage": 3.7469767441860466,
+            "letterAverage": "A-",
+            "units": "3.0",
+            "description": "Fundamental bounds of Shannon theory and their application. Source and channel coding theorems. Galois field theory, algebraic error-correction codes. Private and public-key cryptographic systems. "
+        }
+    },
+    {
+        "node": {
+            "abbreviation": "EL ENG",
+            "courseNumber": "230A",
+            "prerequisites": [],
+            "title": "Integrated-Circuit Devices",
+            "gradeAverage": 3.8047904191616766,
+            "letterAverage": "A-",
+            "units": "4.0",
+            "description": "Overview of electronic properties of semiconductors. Metal-semiconductor contacts, pn junctions, bipolar transistors, and MOS field-effect transistors. Properties that are significant to device operation for integrated circuits. Silicon device fabrication technology. "
+        }
+    },
+    {
+        "node": {
+            "abbreviation": "EL ENG",
+            "courseNumber": "236A",
+            "prerequisites": [
+                "EL ENG 117A",
+                "PHYSICS 137A"
+            ],
+            "title": "Quantum and Optical Electronics",
+            "gradeAverage": 3.643478260869565,
+            "letterAverage": "A-",
+            "units": "3.0",
+            "description": "Interaction of radiation with atomic and semiconductor systems, density matrix treatment, semiclassical laser theory (Lamb's), laser resonators, specific laser systems, laser dynamics, Q-switching and mode-locking, noise in lasers and optical amplifiers. Nonlinear optics, phase-conjugation, electrooptics, acoustooptics and magnetooptics, coherent optics, stimulated Raman and Brillouin scattering. "
+        }
+    },
+    {
+        "node": {
+            "abbreviation": "EL ENG",
+            "courseNumber": "240A",
+            "prerequisites": [
+                "EL ENG 105"
+            ],
+            "title": "Analog Integrated Circuits",
+            "gradeAverage": 3.6912751677852347,
+            "letterAverage": "A-",
+            "units": "4.0",
+            "description": "Single and multiple stage transistor amplifiers. Operational amplifiers. Feedback amplifiers, 2-port formulation, source, load, and feedback network loading. Frequency response of cascaded amplifiers, gain-bandwidth exchange, compensation, dominant pole techniques, root locus. Supply and temperature independent biasing and references. Selected applications of analog circuits such as analog-to-digital converters, switched capacitor filters, and comparators. Hardware laboratory and design project. "
+        }
+    },
+    {
+        "node": {
+            "abbreviation": "EL ENG",
+            "courseNumber": "C249A",
+            "prerequisites": [],
+            "title": "Introduction to Embedded Systems",
+            "gradeAverage": 3.665714285714286,
+            "letterAverage": "A-",
+            "units": "4.0",
+            "description": "This course introduces students to the basics of models, analysis tools, and control for embedded systems operating in real time. Students learn how to combine physical processes with computation. Topics include models of computation, control, analysis and verification, interfacing with the physical world, mapping to platforms, and distributed embedded systems. The course has a strong laboratory component, with emphasis on a semester-long sequence of projects. "
+        }
+    },
+    {
+        "node": {
+            "abbreviation": "EL ENG",
+            "courseNumber": "290",
+            "prerequisites": [],
+            "title": "Advanced Topics in Electrical Engineering",
+            "gradeAverage": 3.9004032258064516,
+            "letterAverage": "A",
+            "units": "1-4",
+            "description": "The 290 courses cover current topics of research interest in electrical engineering. The course content may vary from semester to semester. "
+        }
+    },
+    {
+        "node": {
+            "abbreviation": "EL ENG",
+            "courseNumber": "299",
+            "prerequisites": [],
+            "title": "Individual Research",
+            "gradeAverage": 4.0,
+            "letterAverage": "A",
+            "units": "1-12",
+            "description": "Investigation of problems in electrical engineering. "
+        }
+    },
+    {
+        "node": {
+            "abbreviation": "EL ENG",
+            "courseNumber": "375",
+            "prerequisites": [],
+            "title": "Teaching Techniques for Electrical Engineering",
+            "gradeAverage": -1.0,
+            "letterAverage": "",
+            "units": "2.0",
+            "description": "Discussion of effective teaching techniques. Use of educational objectives, alternative forms of instruction, and proven techniques to enhance student learning. This course is intended to orient new student instructors to more effectively teach courses offered by the Department of Electrical Engineering and Computer Sciences at UC Berkeley."
+        }
+    },
+    {
+        "node": {
+            "abbreviation": "EL ENG",
+            "courseNumber": "39",
+            "prerequisites": [],
+            "title": "Freshman/Sophomore Seminar",
+            "gradeAverage": -1.0,
+            "letterAverage": "",
+            "units": "2-4",
+            "description": "Freshman and sophomore seminars offer lower division students the opportunity to explore an intellectual topic with a faculty member and a group of peers in a small-seminar setting. These seminars are offered in all campus departments; topics vary from department to department and from semester to semester. Enrollment limits are set by the faculty, but the suggested limit is 25. "
+        }
+    },
+    {
+        "node": {
+            "abbreviation": "EL ENG",
+            "courseNumber": "84",
+            "prerequisites": [],
+            "title": "Sophomore Seminar",
+            "gradeAverage": -1.0,
+            "letterAverage": "",
+            "units": "1-2",
+            "description": "Sophomore seminars are small interactive courses offered by faculty members in departments all across the campus. Sophomore seminars offer opportunity for close, regular intellectual contact between faculty members and students in the crucial second year. The topics vary from department to department and semester to semester. Enrollment limited to 15 sophomores. "
+        }
+    },
+    {
+        "node": {
+            "abbreviation": "EL ENG",
+            "courseNumber": "213A",
+            "prerequisites": [
+                "EL ENG 105"
+            ],
+            "title": "Power Electronics",
+            "gradeAverage": 3.8249999999999997,
+            "letterAverage": "A-",
+            "units": "4.0",
+            "description": "Power conversion circuits and techniques. Characterization and design of magnetic devices including transformers, inductors, and electromagnetic  actuators.  Characteristics of  power semiconductor devices, including power diodes, SCRs, MOSFETs, IGBTs, and emerging wide bandgap devices.  Applications to renewable energy systems, high-efficiency lighting, power management in mobile electronics, and electric machine drives.  Simulation based laboratory and design project."
+        }
+    },
+    {
+        "node": {
+            "abbreviation": "EL ENG",
+            "courseNumber": "247A",
+            "prerequisites": [
+                "EECS 16A",
+                "EECS 16B"
+            ],
+            "title": "Introduction to Microelectromechanical Systems (MEMS)",
+            "gradeAverage": 3.872941176470588,
+            "letterAverage": "A",
+            "units": "3.0",
+            "description": "This course will teach fundamentals of micromachining and microfabrication techniques, including planar thin-film process technologies, photolithographic techniques, deposition and etching techniques, and the other technologies that are central to MEMS fabrication. It will pay special attention to teaching of fundamentals necessary for the design and analysis of devices and systems in mechanical, electrical, fluidic, and thermal energy/signal domains, and will teach basic techniques for multi-domain analysis. Fundamentals of sensing and transduction mechanisms including capacitive and piezoresistive techniques, and design and analysis of micmicromachined miniature sensors and actuators using these techniques will be covered."
+        }
+    },
+    {
+        "node": {
+            "abbreviation": "EL ENG",
+            "courseNumber": "C261",
+            "prerequisites": [
+                "El Eng 20N",
+                "Engineering 7"
+            ],
+            "title": "Medical Imaging Signals and Systems",
+            "gradeAverage": 3.60869565217391,
+            "letterAverage": "A-",
+            "units": "4",
+            "description": "Biomedical imaging is a clinically important application of engineering, applied mathematics, physics, and medicine. In this course, we apply linear systems theory and basic physics to analyze X-ray imaging, computerized tomography, nuclear medicine, and MRI. We cover the basic physics and instrumentation that characterizes medical image as an ideal perfect-resolution image blurred by an impulse response. This material could prepare the student for a career in designing new medical imaging systems that reliably detect small tumors or infarcts."
+        }
+    }
+]

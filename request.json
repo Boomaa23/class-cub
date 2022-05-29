@@ -1,0 +1,7 @@
+{
+    "operationName": "GetCoursesForFilter",
+    "variables": {
+        "playlists": "UGxheWxpc3RUeXBlOjMyNTEz"
+    },
+    "query": "query GetCoursesForFilter($playlists: String!) {\n  allCourses(inPlaylists: $playlists) {\n    edges {\n      node {\n        ...CourseOverview\n        }\n      }\n    }\n}\n\nfragment CourseOverview on CourseType {\n abbreviation\n  courseNumber\n  prerequisites\n  title\n  gradeAverage\n  letterAverage\n units\n description\n}\n"
+}
